@@ -7,7 +7,5 @@ My repo contains things that I'm working on, studying or just having fun, maybe 
 
 Most of the things here are discussed in my website =)
 
-https://carlosanhaya.dev
-
 Feel free to get in touch:
 https://www.linkedin.com/in/carlos-anhaya-460a392a/
